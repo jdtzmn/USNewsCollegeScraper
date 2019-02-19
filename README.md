@@ -2,6 +2,8 @@
 
 This was a quick script that I wrote in order to make getting stats from USNews easier. These stats included: full college name, number of undergraduate students, gender ratio, and acceptance rate.
 
+![Terminal Preview](../assets/preview.png?raw=true)
+
 ## Get Started
 
 This is a node.js script, which means it requires that `node` be installed in order to run.
