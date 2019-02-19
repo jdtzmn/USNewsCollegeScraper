@@ -1,4 +1,4 @@
-# U.S. News College Scaper
+# U.S. News College Scraper
 
 This was a quick script that I wrote in order to make getting stats from USNews easier. These stats included: full college name, number of undergraduate students, gender ratio, and acceptance rate.
 
